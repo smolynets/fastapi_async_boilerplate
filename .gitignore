@@ -226,7 +226,6 @@ cython_debug/
 .hide
 .idea
 /database/init_mssql.sql
-docker-compose.yml
 .backup
 .fleet
 
